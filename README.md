@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ultimo-aliento-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Último aliento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultimo-aliento-de-amor/) |
+| **Get License** | [Secure Licensing Rights for Último aliento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultimo-aliento-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Último aliento de amor
+> Sabor a noche y a tu piel
+> Bailando lento sin temor
+> No quiero que amanezca, miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
