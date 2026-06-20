@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ultimo-aliento-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Último aliento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultimo-aliento-de-amor/) |
+| **Get License** | [Get License For Último aliento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultimo-aliento-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ac492529f1ee013e479f35fa78a1b617050b94e5938e8cbfc1223bf2a6275766` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

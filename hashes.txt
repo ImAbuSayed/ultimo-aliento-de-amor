@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Último aliento de amor
+
+This log tracks the cryptographic history and versioning for the song **Último aliento de amor** (ultimo-aliento-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:57:52.641981 | `v1` | `ac492529f1ee013e479f35fa78a1b617050b94e5938e8cbfc1223bf2a6275766` | `ec2388fc69ec2eda4cef4a5f2c6033a0f1911ea5c542ef9a29d0bb79259c8e8a` | `2026-06-20_ultimo-aliento-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
